@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'IAGCargoInnovationAssistant'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7CE397875F6340A5A338BEF642FD36F8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_86F1195F4A7D4427B9AC1E106BD9473C }}
